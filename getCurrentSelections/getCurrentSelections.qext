@@ -1,0 +1,8 @@
+{
+    "name" : "getCurrentSelections",
+    "description" : "Get Current Selections from the toolbar",
+    "icon" : "extension",
+    "type" : "visualization",
+    "version": "0.1.0",
+    "author": "Alex Byrd"
+}
