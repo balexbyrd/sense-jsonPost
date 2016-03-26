@@ -28,7 +28,7 @@ I've tested this in Qlik Sense 2.1.1 and it works in Google Chrome.
 
 ### If posting to a web service, the web service must be set up to receive the JSON string (it's not plug and play). If using CouchDB or MongoDB etc., additional code will be needed to connect to the db.
 
-### Check the console in the browser to see what gets posted
+> **Pro Tip:** Check the console in the browser to see what gets posted
 
 ## License
 
